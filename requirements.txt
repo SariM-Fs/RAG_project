@@ -1,0 +1,9 @@
+chromadb
+sentence-transformers
+google-genai
+python-dotenv
+streamlit
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+llama-index-llms-google-genai
